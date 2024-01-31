@@ -1785,7 +1785,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header__logo img {
-   width: 265px;
+   width: 700px;
    height: 48px;
 }
 
@@ -2015,7 +2015,7 @@ body.search-is-visible {
 
 @media only screen and (max-width:900px) {
    .header__logo img {
-      width: 250px;
+      width: 500px;
       height: 45px;
    }
 
@@ -2035,7 +2035,7 @@ body.search-is-visible {
    }
 
    .header__logo img {
-      width: 225px;
+      width: 400px;
       height: 40px;
    }
 
@@ -2075,7 +2075,7 @@ body.search-is-visible {
    }
 
    .header__logo img {
-      width: 200px;
+      width: 240px;
       height: 36px;
    }
 
@@ -2103,7 +2103,7 @@ body.search-is-visible {
    }
 
    .header__logo img {
-      width: 160px;
+      width: 200px;
       height: 29px;
    }
 
